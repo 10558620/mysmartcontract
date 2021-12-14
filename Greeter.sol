@@ -5,7 +5,7 @@ contract Greeter {
  string public greeting;
 
  constructor() {
-  greeting = 'Hello from DBS Team Members Siddhi, Tausif and Renjith';
+  greeting = 'This is a POC contract deployment for Cashback DLT project members Siddhi, Tausif & Renjith';
  }
 
  function setGreeting(string memory _greeting) public {
